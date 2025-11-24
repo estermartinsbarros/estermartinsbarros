@@ -1,3 +1,1 @@
-- 🔭 I’m currently working on Circular Linked List
-- 🌱 I’m currently learning Javascript
-- 😄 Pronouns: She/her
+<h1> 📚 Atualmente estudando - JavaScript </h1>
