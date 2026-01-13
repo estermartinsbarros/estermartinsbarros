@@ -1,1 +1,1 @@
-<h1> 📚 Atualmente estudando - JavaScript </h1>
+<h1> 📚 Atualmente estudando - JavaScript | HTML/CSS </h1>
