@@ -1,1 +1,1 @@
-<h1> 📚 Atualmente estudando - JavaScript | HTML/CSS </h1>
+<h1> 📚 Estudante do IFMA </h1>
