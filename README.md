@@ -1,1 +1,1 @@
-<h1> 📚 Estudante do IFMA </h1>
+<h1> 📚 Python | SQL | Analytics </h1>
